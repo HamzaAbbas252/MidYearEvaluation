@@ -1,0 +1,2 @@
+lower_range = np.array([118, 200, 40])
+        upper_range = np.array([130, 255, 255])
